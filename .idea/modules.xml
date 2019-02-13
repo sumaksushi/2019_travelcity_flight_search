@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2019_travelcity_flight_search.iml" filepath="$PROJECT_DIR$/.idea/2019_travelcity_flight_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jan_2019_travelocity_page_object.iml" filepath="$PROJECT_DIR$/.idea/modules/jan_2019_travelocity_page_object.iml" />
     </modules>
   </component>
 </project>
