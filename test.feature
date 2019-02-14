@@ -1,4 +1,3 @@
-Feature: my test feature
+Feature : my test feature
 
-  Scenario: testing VCC functionality
-
+  Scenario: testing the VCC
