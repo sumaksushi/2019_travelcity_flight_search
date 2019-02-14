@@ -7,3 +7,4 @@ Cucumber::Rake::Task.new(:features) do |t|
 end
 
 task :default => :features
+
