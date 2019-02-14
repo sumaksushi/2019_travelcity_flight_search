@@ -8,7 +8,6 @@ include Utilities
 
 $url = 'www.travelocity.com'
 $browser = :chrome
-
 World(PageObject::PageFactory)
 
 
