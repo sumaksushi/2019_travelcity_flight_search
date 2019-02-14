@@ -7,8 +7,7 @@ require_relative 'modules/utilities'
 include Utilities
 
 $url = 'www.travelocity.com'
-$browser =:chrome
-
+$browser = :chrome
 
 World(PageObject::PageFactory)
 
